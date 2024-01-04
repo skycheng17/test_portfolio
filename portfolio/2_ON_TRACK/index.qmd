@@ -1,0 +1,77 @@
+---
+title: 'Predicting NJ Transit train delays to schedule track maintenance and upgrades'
+resources: 
+  - "portfolio/2_ON_TRACK/ON_TRACK.html"
+author:
+  - Stephanie Cheng
+  - Shreya Bansal
+date: 2023-12-15
+image: cover.png
+categories:
+  - R
+  - GIS
+  - Transportation
+  - Climate Change
+  - Machine Learning
+subtitle: 'A project using machine learning, environmental data, and [NJ Transit Performance Data](https://www.kaggle.com/datasets/pranavbadami/nj-transit-amtrak-nec-performance) to forecast train delays.'
+about:
+  id: hero-heading
+  image-width: 0em
+  template: solana
+  links:
+    - icon: journal-code
+      text: Full Analysis
+      href: https://skycheng17.github.io/portfolio/2_ON_TRACK/ON_TRACK.html  
+    - icon: youtube
+      text: Pechakucha Presentation
+      href: https://youtu.be/0V8Ebk3E6sA?si=Q4hulpzhflC7Jc_3
+    - icon: window
+      text: Figma Wireframing
+      href: https://www.figma.com/proto/Bk7ORgaR4XeQm830dYbeWz/PPA?node-id=13-457&source=email_invite&mode=design&t=Zw661lbDtbzhUPqT-1
+    - icon: file-earmark-slides
+      text: Slidedeck
+      href: https://docs.google.com/presentation/d/12TAbDNmJrRJ4asHtRfg1bzuZPKZeka38F76zeve-3Z8/edit?usp=sharing
+
+---
+
+
+### Project Brief
+
+
+**Our team's final report, presentation, and "scrollytelling" mock-up are linked above**. A slide deck created for a lab meeting presentation is also linked, and summarizes the content.
+
+![Schematic representation of the Medication Assisted Treatment (MAT) referral process pipeline as part of the recovery for someone with Opioid Use Disorder (OUD)](cover.png)
+
+### Exploratory Analysis
+
+
+### Project Outcomes
+
+#### Pechakucha Presentation
+{{< video https://www.youtube.com/embed/0V8Ebk3E6sA?si=intxhMFAYXFc2gh7 >}}
+
+#### Website Wireframing using Figma
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FBk7ORgaR4XeQm830dYbeWz%2FPPA%3Fnode-id%3D13-457%26source%3Demail_invite%26mode%3Ddesign%26t%3D3sLUGUBwsQADijTa-1" allowfullscreen></iframe>
+*It is recommended to click into the link or view fullscreen for a better experience of the prototype website.*
+
+
+### Data Sources
+- [Code for Philly ](https://codeforphilly.org/)
+- [DataPhilly](https://www.meetup.com/DataPhilly/)
+- [R-Ladies Philly](https://www.rladiesphilly.org/)
+- [Philly Data Jawn](https://www.rladiesphilly.org/)
+- [City of Philadelphia](https://www.phila.gov/programs/combating-the-opioid-epidemic/)
+
+# Recurring Themes in Recovery
+We observed a number of recurring themes in the qualitative data collected.
+
+- **Every recovery path is unique.** Often, a person’s recovery is non-linear, includes setbacks and does not have a clear end point. This can make visualizing a journey difficult, because there is no “typical” recovery.
+- **The perfect recovery process is the one perfect for that person.** The best recovery process is one that meets an individual exactly where they are, free of external barriers and judgment, and full of respect and compassion.
+- **Relapse can happen during recovery.** An individual can relapse but this does not mean that their recovery is over.
+- **Mindset for recovery.** Recovery can only begin when a person is ready. Until that point, their access to harm reduction education and harm reduction services is extremely important.
+- **Role of long-term relationships between individuals with OUD and agencies that provide recovery services.** Thanks to these long term relationships, a person knows where to turn when they are ready for help.
+- **Stigma and recovery.** If an individual was treated poorly in the past by an emergency response person or at a healthy clinic, they may refuse treatment in the future. Some abstinence-based treatment programs do not condone substance use of any kind, including MAT. Stigma exists
+within advocacy in the form of promoting Vivitrol, which has disadvantages when compared to buprenorphine, but cannot be diverted.
+- **Benefit of “Lived Experience”.** When case managers can share that they have “lived experience” and are in recovery themselves, it often makes individuals more comfortable. These case managers are able to offer compassion because they have been through withdrawal and some of the same challenges themselves.
+- **Vulnerable Populations.** While there may not be a typical recovery story, it is certain that there are populations for whom there exist even more obstacles to recovery. These vulnerable populations include: homeless, uninsured, mothers, formerly incarcerated, and people with a dual diagnosis of OUD and mental illness.
