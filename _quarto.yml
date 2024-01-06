@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "!docs"
   preview:
     port: 3333
 
@@ -54,4 +56,3 @@ format:
 execute: 
   freeze: auto
   cache: true
-
